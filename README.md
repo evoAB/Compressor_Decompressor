@@ -1,6 +1,6 @@
 **Compressor and Decompressor**
 
-The main objective of this project is to reduce the number of bits needed to represent data losslessly. It also ensures that the file is restored to its original form after decompression.
+The main objective of this project is to reduce the number of bits needed to represent data, while ensuring lossless conversion. Also It ensures that the file is restored to its original form after decompression.
 
 The tech Stack used are **JAVA, JAVA SWING and JAVA AWT**
 
