@@ -4,7 +4,7 @@ The main objective of this project is to reduce the number of bits needed to rep
 
 The tech Stack used are **JAVA, JAVA SWING and JAVA AWT**
 
-**Benifits - **
+**Benifits -**
 It can save storage space.
 It can speed up file transfer.
 It can decrease the costs of storage hardware and network bandwidth.
